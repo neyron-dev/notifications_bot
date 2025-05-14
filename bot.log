@@ -1,0 +1,53 @@
+2025-05-15 05:43:25,292 - __main__ - INFO - Initializing database...
+2025-05-15 05:43:25,293 - __main__ - INFO - Database initialized successfully
+2025-05-15 05:43:25,295 - __main__ - INFO - Starting bot...
+2025-05-15 05:43:25,295 - __main__ - INFO - All reminders in database:
+2025-05-15 05:43:25,295 - __main__ - INFO - Sending missed reminders...
+2025-05-15 05:43:25,296 - __main__ - INFO - Checking for missed reminders...
+2025-05-15 05:43:25,297 - __main__ - INFO - Current time for query: 2025-05-15T01:43:25.296966+03:00
+2025-05-15 05:43:25,297 - __main__ - INFO - SQL query executed, found 0 reminders
+2025-05-15 05:43:25,297 - __main__ - INFO - No missed reminders found
+2025-05-15 05:43:25,297 - __main__ - INFO - Starting reminder check loop...
+2025-05-15 05:43:25,298 - __main__ - INFO - Starting bot polling...
+2025-05-15 05:43:25,298 - aiogram.dispatcher - INFO - Start polling
+2025-05-15 05:43:25,298 - __main__ - INFO - Checking for pending reminders...
+2025-05-15 05:43:25,299 - __main__ - INFO - Current time for query: 2025-05-15T01:43:25.299279+03:00
+2025-05-15 05:43:25,299 - __main__ - INFO - Found 0 pending reminders in database
+2025-05-15 05:43:25,300 - __main__ - INFO - Found 0 pending reminders
+2025-05-15 05:43:25,732 - aiogram.dispatcher - INFO - Run polling for bot @hahanotan_bot id=7696175433 - 'dsfsdf'
+2025-05-15 05:43:28,165 - __main__ - INFO - Adding/updating user 6511010080 to database
+2025-05-15 05:43:28,172 - __main__ - INFO - Successfully added/updated user 6511010080
+2025-05-15 05:43:28,538 - aiogram.event - INFO - Update id=516593788 is handled. Duration 373 ms by bot id=7696175433
+2025-05-15 05:43:31,981 - aiogram.event - INFO - Update id=516593789 is handled. Duration 133 ms by bot id=7696175433
+2025-05-15 05:43:36,105 - __main__ - INFO - Adding/updating user 2039721100 to database
+2025-05-15 05:43:36,109 - __main__ - INFO - Successfully added/updated user 2039721100
+2025-05-15 05:43:36,237 - aiogram.event - INFO - Update id=516593790 is handled. Duration 132 ms by bot id=7696175433
+2025-05-15 05:43:38,198 - aiogram.event - INFO - Update id=516593791 is handled. Duration 169 ms by bot id=7696175433
+2025-05-15 05:43:38,916 - aiogram.event - INFO - Update id=516593792 is handled. Duration 142 ms by bot id=7696175433
+2025-05-15 05:43:44,560 - aiogram.event - INFO - Update id=516593793 is handled. Duration 150 ms by bot id=7696175433
+2025-05-15 05:43:50,909 - __main__ - INFO - Adding reminder for user 2039721100
+2025-05-15 05:43:50,913 - __main__ - INFO - Reminder added successfully with ID 9
+2025-05-15 05:43:51,040 - aiogram.event - INFO - Update id=516593794 is handled. Duration 134 ms by bot id=7696175433
+2025-05-15 05:44:25,303 - __main__ - INFO - Checking for pending reminders...
+2025-05-15 05:44:25,304 - __main__ - INFO - Current time for query: 2025-05-15T01:44:25.304094+03:00
+2025-05-15 05:44:25,304 - __main__ - INFO - Found 1 pending reminders in database
+2025-05-15 05:44:25,304 - __main__ - INFO - Found 1 pending reminders
+2025-05-15 05:44:25,305 - __main__ - INFO - Processing reminder 9: Самое интересное
+2025-05-15 05:44:25,305 - __main__ - INFO - Getting all users from database
+2025-05-15 05:44:25,305 - __main__ - INFO - Found 2 users: [2039721100, 6511010080]
+2025-05-15 05:44:25,306 - __main__ - INFO - Found 2 users to send reminders to
+2025-05-15 05:44:25,306 - __main__ - INFO - Attempting to send reminder 9 to user 2039721100
+2025-05-15 05:44:25,445 - __main__ - INFO - Successfully sent reminder 9 to user 2039721100
+2025-05-15 05:44:25,446 - __main__ - INFO - Attempting to send reminder 9 to user 6511010080
+2025-05-15 05:44:25,574 - __main__ - INFO - Successfully sent reminder 9 to user 6511010080
+2025-05-15 05:44:25,574 - __main__ - INFO - Deleting reminder 9
+2025-05-15 05:44:25,581 - __main__ - INFO - Successfully deleted reminder 9
+2025-05-15 05:44:25,581 - __main__ - INFO - Successfully deleted reminder 9 after sending
+2025-05-15 05:44:31,071 - aiogram.event - INFO - Update id=516593795 is handled. Duration 133 ms by bot id=7696175433
+2025-05-15 05:45:25,584 - __main__ - INFO - Checking for pending reminders...
+2025-05-15 05:45:25,585 - __main__ - INFO - Current time for query: 2025-05-15T01:45:25.585480+03:00
+2025-05-15 05:45:25,585 - __main__ - INFO - Found 0 pending reminders in database
+2025-05-15 05:45:25,586 - __main__ - INFO - Found 0 pending reminders
+2025-05-15 05:45:56,933 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-05-15 05:45:56,933 - aiogram.dispatcher - INFO - Polling stopped for bot @hahanotan_bot id=7696175433 - 'dsfsdf'
+2025-05-15 05:45:56,934 - aiogram.dispatcher - INFO - Polling stopped
